@@ -8,7 +8,7 @@ Part of Ascenda travel platform is to find nearby offers for our customers. When
 The **input** includes:
 
  - **Check-in date JSON file**: Instead of providing a specific check-in
-   date, I believe providing a JSON file including the check-in dates of    customers is much more convenient and expandable. Due to the fact   that the check-in date could be provided in SQL datetime (***YYYY-MM-DD   HH:MM:SS***), I made a MOCK_DATA.json to provide basic example on how check-in dates are arranged. For further development, check-in dates can be associated with the customers based on when the customers make the payment (electronic or non-electronic). These attributes need to be precise to store in the database.
+   date, I believe providing a JSON file including the check-in dates of    customers is much more convenient and expandable. Due to the fact   that the check-in date could be provided in SQL datetime (***YYYY-MM-DD   HH:MM:SS***), I made a MOCK_DATA.json to provide basic example on how check-in dates are arranged. For further development, check-in dates can be associated with the customers based on when the customers make the payment (electronic or non-electronic). These attributes need to be precise to store in the database and each customer is 1-on-1 mapping in the dictionary.
    
  - **Offers input JSON file:**  this API returns us a JSON response including offer details & merchant details. Merchants giving these offers are categorized by the external partner.
 
