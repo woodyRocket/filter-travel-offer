@@ -26,3 +26,12 @@ The **output.json** includes:
 
 
 ## Installation
+
+1. Download the source code or clone the repository to your local machine.
+2. Install Python 3 and Dependencies such as ***datetime*** and ***sys*** (if not installed by default)
+3. After installing the dependencies, run the application with the following command:
+
+   `py .\main.py .\MOCK_DATA.json .\input.json`
+
+   You can replace **MOCK_DATA.json** with your **Check-in Dates** JSON file and **input.json** with your **Offers List** JSON file
+
