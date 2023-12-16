@@ -1,0 +1,109 @@
+{
+    "2020-09-14 13:35:52": {
+        "offers": []
+    },
+    "2020-05-29 13:35:52": {
+        "offers": []
+    },
+    "2020-03-02 13:35:52": {
+        "offers": []
+    },
+    "2020-02-03 13:35:52": {
+        "offers": []
+    },
+    "2020-08-28 13:35:52": {
+        "offers": []
+    },
+    "2019-12-16 13:35:52": {
+        "offers": []
+    },
+    "2023-04-04 13:35:52": {
+        "offers": []
+    },
+    "2020-04-29 13:35:52": {
+        "offers": [
+            {
+                "id": 1,
+                "title": "Offer 1",
+                "description": "Offer 1 description",
+                "category": 1,
+                "merchants": [
+                    {
+                        "id": 1,
+                        "name": "Offer1 Merchant1",
+                        "distance": 0.5
+                    }
+                ],
+                "valid_to": "2020-05-01"
+            },
+            {
+                "id": 5,
+                "title": "Offer 5",
+                "description": "Offer 5 description",
+                "category": 4,
+                "merchants": [
+                    {
+                        "id": 6,
+                        "name": "Offer5 Merchant1",
+                        "distance": 1.2
+                    }
+                ],
+                "valid_to": "2020-05-01"
+            }
+        ]
+    },
+    "2020-01-29 13:35:52": {
+        "offers": [
+            {
+                "id": 7,
+                "title": "Offer 7",
+                "description": "Offer 7 description",
+                "category": 1,
+                "merchants": [
+                    {
+                        "id": 1,
+                        "name": "Offer7 Merchant7",
+                        "distance": 0.2
+                    }
+                ],
+                "valid_to": "2020-02-01"
+            }
+        ]
+    },
+    "2020-01-28 13:35:52": {
+        "offers": [
+            {
+                "id": 7,
+                "title": "Offer 7",
+                "description": "Offer 7 description",
+                "category": 1,
+                "merchants": [
+                    {
+                        "id": 1,
+                        "name": "Offer7 Merchant7",
+                        "distance": 0.2
+                    }
+                ],
+                "valid_to": "2020-02-01"
+            }
+        ]
+    },
+    "2020-01-30 13:35:52": {
+        "offers": [
+            {
+                "id": 7,
+                "title": "Offer 7",
+                "description": "Offer 7 description",
+                "category": 1,
+                "merchants": [
+                    {
+                        "id": 1,
+                        "name": "Offer7 Merchant7",
+                        "distance": 0.2
+                    }
+                ],
+                "valid_to": "2020-02-01"
+            }
+        ]
+    }
+}
